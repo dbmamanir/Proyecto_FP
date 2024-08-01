@@ -1,5 +1,3 @@
-Opciones para continuar el proyecto:
-Agenda para registrar asauntos importantes
-Inventariado según codigo de los kits de lego mindstorm
-Inventariado de una tienda
-Inventariado de una biblioteca
+Opcion elegida por el grupo:
+
+Inventariado de kits de lego mindstorm
