@@ -6,12 +6,12 @@ int main (){
     int op; //opcion
     do {
         system ("cls");
-        cout<<"\tAgenda de Tareas\n";
-        cout<<"1. Agregar tarea\n";
-        cout<<"2. Eliminar tarea\n";
-        cout<<"3. Actualizar tarea\n";
-        cout<<"4. Marcar el estado de la tarea\n"; //pendiente, proceso, terminado
-        cout<<"5. Buscar tarea\n";
+        cout<<"\tOPCIONES PARA EL INVENTARIADO DEL KIT LEGO MINDSTORM \n";
+        cout<<"1. CANTIDAD DE PIEZAS POR CADA ESPECIE\n";
+        cout<<"2. INSERTAR ALGUNA OBSERVACION DEL KIT\n";
+        cout<<"3. INSERTAR OBSERVACION DE ALGUNA PIEZA DEL KIT\n";
+        cout<<"4. BUSCAR PIEZA Y MOSTRAR SI TIENE ALGUNA OBSERVACION\n"; //falta de piezas, o si algo está roto
+        cout<<"5. ...\n";
         cout<<"6. Mostrar todas las tarea\n"; //ordenar por fecha o estado
         cout<<"0. Salir\n";
         cout<<"Seleccione una opcion:";
